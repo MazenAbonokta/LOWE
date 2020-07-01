@@ -12,6 +12,7 @@ namespace LOWE.Controllers
 {
     public class HomeController : Controller
     {
+
         public ActionResult Index()
         {
             //Change_Language("");
